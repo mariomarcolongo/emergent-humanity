@@ -122,7 +122,7 @@ function init() {
   const methods = el("a", "", "Models, evidence, and limits");
   methods.href = "methods.html";
   const source = el("a", "", "Source on GitHub");
-  source.href = "https://github.com/jnton/emergent-humanity";
+  source.href = "https://github.com/mariomarcolongo/emergent-humanity";
   footer.append(methods, document.createTextNode(" · "), source);
   container.append(footer);
   const nav = document.getElementById("chapter-nav"),

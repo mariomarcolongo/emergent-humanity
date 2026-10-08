@@ -271,7 +271,7 @@ function buildFooter() {
   model.href = 'methods.html';
   const separator = document.createTextNode(' · ');
   const source = createElement('a', '', 'View the source on GitHub');
-  source.href = 'https://github.com/jnton/emergent-humanity';
+  source.href = 'https://github.com/mariomarcolongo/emergent-humanity';
   source.target = '_blank';
   source.rel = 'noopener noreferrer';
   const experiments=createElement('a','','Try the experiments');experiments.href='lab.html';
