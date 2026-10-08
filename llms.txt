@@ -14,7 +14,7 @@
 - [Animated essay](./): Original network visualizations and evocative chapter titles.
 - [Quantitative lab](lab.html): Optional deterministic experiments accessible from the footer and model notes.
 - [Illustration source](content/illustrations.js): Reader-facing prose and controls for the main animations.
-- [Source repository](https://github.com/jnton/emergent-humanity): Implementation, history, tests, and license.
+- [Source repository](https://github.com/mariomarcolongo/emergent-humanity): Implementation, history, tests, and license.
 - [License](LICENSE): Repository license terms.
 
 ## Interpretation guidance
