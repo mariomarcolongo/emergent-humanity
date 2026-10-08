@@ -14,7 +14,7 @@ assert.doesNotMatch(
 );
 assert.match(index, /essay.html/);
 assert.match(app, /methods.html/);
-assert.match(app, /https:\/\/github.com\/jnton\/emergent-humanity/);
+assert.match(app, /https:\/\/github.com\/mariomarcolongo\/emergent-humanity/);
 assert.match(audio, /__EMERGENT_AUDIO_DEBUG__/);
 assert.doesNotMatch(audio, /startAudioOnInteract|audioBtn\.click/);
 assert.equal(SECTIONS.length, 17);
