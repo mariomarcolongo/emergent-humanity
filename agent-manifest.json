@@ -37,5 +37,5 @@
     "Canvas pixels are supplementary; agents should use text, controls, and status output for interpretation.",
     "The main essay uses restored illustrative animations. Deterministic model snapshots are available in the separate quantitative lab, not in the main animation engine."
   ],
-  "sourceRepository": "https://github.com/jnton/emergent-humanity"
+  "sourceRepository": "https://github.com/mariomarcolongo/emergent-humanity"
 }
